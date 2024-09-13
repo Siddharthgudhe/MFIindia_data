@@ -21,7 +21,7 @@ Ensure the required libraries are installed.
 Load your DataFrame into df.
 Run the script and follow the prompts to filter data and visualize results.
 
-#Example:
+# Example:
 Enter a sector name when prompted.
 Specify a category and risk type.
 Choose an AMC name to get detailed mutual fund analysis.
