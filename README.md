@@ -5,15 +5,15 @@ This script is designed for analyzing mutual fund data based on user-defined cri
 It leverages pandas for data manipulation and seaborn/matplotlib for visualizations.
 
 # Features:
-# Sector Selection: 
+Sector Selection: 
 
 Users can filter data by sector. The available sectors are displayed upon script execution.
 
-# Category and Risk Type Filtering: 
+Category and Risk Type Filtering: 
 
 After selecting a sector, users can narrow down the data by category and risk type.
 
-# Visualization:
+Visualization:
        
 Returns vs. AMC Name: 
        
