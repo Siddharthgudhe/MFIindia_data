@@ -1,5 +1,5 @@
 # MFIindia_data
-Mutual Fund Analysis Tool:
+# Mutual Fund Analysis Tool:
 
 This script is designed for analyzing mutual fund data based on user-defined criteria, including sector, category, risk type, and AMC (Asset Management Company) name. It leverages pandas for data manipulation and seaborn/matplotlib for visualizations.
 
