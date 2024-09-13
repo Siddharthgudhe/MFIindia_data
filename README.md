@@ -12,9 +12,13 @@ Mutual Fund Details: Once an AMC is selected, the script visualizes returns and 
 
 # Requirements:
 Python 3.x
+
 pandas
+
 seaborn
+
 matplotlib
+
 
 # Usage:
 Ensure the required libraries are installed.
