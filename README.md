@@ -12,8 +12,10 @@ Category and Risk Type Filtering:
 After selecting a sector, users can narrow down the data by category and risk type.
 
 Visualization:
+       
         Returns vs. AMC Name: 
                       Displays line plots for 1-year, 3-year, and 5-year returns, and a bar plot for fund ratings.
+                      
         Mutual Fund Details:
                       Once an AMC is selected, the script visualizes returns and fund ratings of individual mutual funds under that AMC.
                       
